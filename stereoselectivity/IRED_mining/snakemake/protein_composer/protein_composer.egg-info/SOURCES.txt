@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+protein_composer/__init__.py
+protein_composer/__main__.py
+protein_composer/protein_composer.CITATION
+protein_composer/protein_composer.LICENSE
+protein_composer/protein_composer.VERSION
+protein_composer.egg-info/PKG-INFO
+protein_composer.egg-info/SOURCES.txt
+protein_composer.egg-info/dependency_links.txt
+protein_composer.egg-info/entry_points.txt
+protein_composer.egg-info/requires.txt
+protein_composer.egg-info/top_level.txt
+protein_composer/config/config.yaml
+protein_composer/workflow/Snakefile

@@ -1,0 +1,4 @@
+include protein_composer/protein_composer.LICENSE
+include protein_composer/protein_composer.CITATION
+include protein_composer/protein_composer.VERSION
+recursive-include protein_composer *

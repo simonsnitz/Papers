@@ -1,0 +1,2 @@
+[console_scripts]
+protein_composer = protein_composer.__main__:main

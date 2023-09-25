@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: protein-composer
+Version: 0.1.0
+Summary: Workflow used to create small panels of proteins for testing
+Home-page: 
+Author: Simon dOelsnitz
+Author-email: simonsnitz@gmail.com
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# protein_composer
+
+Workflow used to create small panels of proteins for testing

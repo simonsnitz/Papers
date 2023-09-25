@@ -1,0 +1,4 @@
+# Snakemake config
+input:
+output: 'protein_composer.out/'
+log: 'protein_composer/protein_composer.log'
